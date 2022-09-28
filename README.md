@@ -11,3 +11,7 @@
 ## 3. Course Basic Data Structures
 
 ![FreeCodeCamp Course Basic Data Structures](./images/Screenshot%202022-09-27%20at%2018.39.49.png)
+
+## 4. Course Basic Algorithm Scripting
+
+![FreeCodeCamp Course Basic Algorithm Scripting](./images/Screenshot%202022-09-28%20at%2020.29.31.png)
