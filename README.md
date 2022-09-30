@@ -15,3 +15,7 @@
 ## 4. Course Basic Algorithm Scripting
 
 ![FreeCodeCamp Course Basic Algorithm Scripting](./images/Screenshot%202022-09-28%20at%2020.29.31.png)
+
+## 5. Course Functional Programming
+
+![FreeCodeCamp Course Functional Programming](./images/Screenshot%202022-09-30%20at%2018.44.22.png)
