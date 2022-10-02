@@ -19,3 +19,7 @@
 ## 5. Course Functional Programming
 
 ![FreeCodeCamp Course Functional Programming](./images/Screenshot%202022-09-30%20at%2018.44.22.png)
+
+## 6. Course Intermediate Algorithm Scripting
+
+![FreeCodeCamp Course Intermediate Algorithm Scripting](./images/Screenshot%202022-10-02%20at%2015.01.02.png)
