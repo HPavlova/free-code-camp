@@ -22,4 +22,4 @@
 
 ## 6. Course Intermediate Algorithm Scripting
 
-![FreeCodeCamp Course Intermediate Algorithm Scripting](./images/Screenshot%202022-10-02%20at%2015.01.02.png)
+![FreeCodeCamp Course Intermediate Algorithm Scripting](./images/Screenshot%202022-10-03%20at%2021.31.27.png)
